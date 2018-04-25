@@ -23,5 +23,5 @@ A simulation in AnyLogic of a restaurant with a queue for the payment a later a 
 <br>
 
 <p>Distribution histogram of average queue time:</p>
-<img src="images/r-distributionHistogram.png" width="450"/>
+<img src="images/r-distributionHistogram.png" width="500"/>
 <br>
