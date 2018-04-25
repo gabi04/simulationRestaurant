@@ -7,11 +7,11 @@ A simulation in AnyLogic of a restaurant with a queue for the payment a later a 
 <br>
 
 <p>Flowchart:</p>
-<img src="images/r-flowchart.png" width="350"/>
+<img src="images/r-flowchart.png" width="400"/>
 <br>
 
 <p>Queues capacity:</p>
-<img src="images/r-queuesCapacity.png" width="350"/>
+<img src="images/r-queuesCapacity.png" width="400"/>
 <br>
 
 <p>2D animation:</p>
@@ -23,5 +23,5 @@ A simulation in AnyLogic of a restaurant with a queue for the payment a later a 
 <br>
 
 <p>Distribution histogram of average queue time:</p>
-<img src="images/r-distributionHistogram.png" width="350"/>
+<img src="images/r-distributionHistogram.png" width="400"/>
 <br>
