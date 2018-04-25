@@ -8,7 +8,7 @@ A simulation in AnyLogic of a restaurant with a queue for the payment a later a 
 </figure>
 
 <figure>
-  <img src="images/restauranRunning" width="350"/>
+  <img src="images/restauranRunning.png" width="350"/>
   <figcaption>Simulation running.</figcaption>
 </figure>
 
