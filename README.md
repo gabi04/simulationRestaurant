@@ -1,6 +1,6 @@
 # Simulation of a restaurant
 
-A simulation in AnyLogic of a restaurant with a queue for the payment a later a queue for recive lunch.
+A simulation in AnyLogic of a restaurant with two queues, the first one for payment and the second one for receiving lunch.
 
 <p>Simulation running:</p>
 <img src="images/r-running.png" width="500"/>
